@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d6d8fe9e833195b46b2d842f5ccfd25e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - RunAudio: {fileID: 8300000, guid: 19cb47f7bc5c30c41a98637c388a61f5, type: 3}
+  - DeathAudio: {fileID: 8300000, guid: e4169c7710416994c9df05164d92674d, type: 3}
+  - AttackAudio: {fileID: 8300000, guid: c05e99594e8a2254fb6de2626ae8f0ed, type: 3}
+  - Blood: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
